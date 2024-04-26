@@ -1,2 +1,2 @@
-# HIT-GPU--2023-
+# GPU计算
 labs
