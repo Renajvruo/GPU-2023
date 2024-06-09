@@ -1,2 +1,2 @@
 # GPU计算
-labs
+GPU计算
